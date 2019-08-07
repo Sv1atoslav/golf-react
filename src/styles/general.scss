@@ -1,0 +1,28 @@
+body {
+  position: relative;
+}
+
+div, p, a, img, form, button {
+  box-sizing: border-box;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul, li {
+  display: block;
+  margin: 0;
+  padding: 0;
+}
+
+/*login Partner Countries background*/
+.bg-header {
+  background-image: linear-gradient(0deg, #000000 0%, #45494d 100%);
+  border: 1px solid;
+  height: 30px;
+  max-width: 100%;
+  margin: -10px 0 0 -10px;
+  font-size: 14px;
+  font-family: Calibri, serif;
+}

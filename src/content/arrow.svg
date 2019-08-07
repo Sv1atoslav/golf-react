@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 12" width="22" height="12">
+	<defs>
+		<image width="22" height="12" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAMCAYAAABm+U3GAAAA7klEQVQ4T63RsWrCUBQG4P8kQQehONRZlOTmJkMWH0DoIIiD4OTUpaNO7ZZncGuHDj5S3yDQqQ/gHAh/iYSgrUlu1Dv/9+M/5whaPM/zxkmSfJt8EZNQGIYhyTeSsyzLpiZ4I+y67sBxnE8Aq6LEjwleCyulHi3LigG8AHg4ma4Rr4SL8Xck5xXrqsUrYa31B4BNww0q8b+wKKUi27ZjkksAXYPjXsTP4CiKemma7gGsDcDTyD+8hIMgGJJ8JfksIv2WcB4/w4+w7/sjEXkHsLgCvNg8h0VrvQOwBdC5ET42F5GnHP0CMLkDWBIkD7/lBnQR3b0hfgAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="menu">
+		<g id="drop-down">
+			<use id="Shape 17" style="opacity: 0.949" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

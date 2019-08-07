@@ -1,0 +1,40 @@
+/*BOTTOM ICONS*/
+.bottom-icons {
+  display: flex;
+  justify-content: space-between;
+}
+
+.bottom-icons .content {
+  border-right: 1px ridge #d7d7d7;
+  padding: 21px;
+}
+
+.bottom-icons .content .heading {
+  font-size: 18px;
+  line-height: 59px;
+  color: #343434;
+  font-family: "Calibri", serif;
+  position: relative;
+  top: -20px;
+  left: 10px;
+}
+
+.bottom-icons .content .text {
+  font-size: 12px;
+  line-height: 59px;
+  color: #343434;
+  font-family: "Arial", serif;
+  position: relative;
+  left: -40px;
+  top: 2px;
+}
+
+i:hover {
+  cursor: default;
+}
+
+.icon {
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=bottomicons.css.map */

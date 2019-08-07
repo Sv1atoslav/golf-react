@@ -1,0 +1,52 @@
+.centralize {
+  position: absolute;
+  left: 50%;
+  margin-right: -50%;
+  transform: translate(-50%, 0%)
+}
+
+
+#one {
+  justify-content: center;
+  display: block;
+  max-width: 1100px;
+  position: relative;
+  margin-left: 5%;
+  overflow: hidden;
+}
+
+/*HEADER*/
+.log-regist {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin-right: 100px;
+  height: 25px;
+
+}
+
+.log-regist li a {
+  color: #ffffff;
+}
+
+.log-regist li a:hover {
+  color: #99008e;
+}
+
+.log-regist li a:active {
+  color: #007e99;
+}
+
+.between {
+  color: #ffffff;
+  margin: 0 10px;
+}
+
+.banner {
+  justify-content: center;
+}
+
+.banner img {
+  height: 115.5px;
+  margin-left: 25.6px;
+}
